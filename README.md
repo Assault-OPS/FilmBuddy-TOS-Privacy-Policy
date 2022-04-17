@@ -37,7 +37,7 @@ Any direct connection to Discord or any of its Trademark objects is purely coinc
 
 ### • Services used:
 
-Film Buddy posts and receives data from [The Movie Database](https://www.themoviedb.org/) by the use of their API. No other services are used by the bot.
+Film Buddy posts and receives data from [The Movie Database](https://www.themoviedb.org/) by the use of their API and a real-time database service offered by Firebase. No other services are used by the bot.
 
 ### • Liability:
 The owner of the bot may not be made liable for individuals breaking these Terms at any given time.
